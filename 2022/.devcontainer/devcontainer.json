@@ -1,0 +1,6 @@
+{
+	"name": "AdventOfCode - 2022",
+	"build": {
+		"dockerfile": "Dockerfile"
+	}
+}
