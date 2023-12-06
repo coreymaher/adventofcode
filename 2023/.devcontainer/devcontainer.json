@@ -1,0 +1,13 @@
+{
+  "name": "AdventOfCode - 2023",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "golang.go"
+      ]
+    }
+  }
+}
